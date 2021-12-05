@@ -2,6 +2,9 @@
 Low level backend design of Food Ordering app 
 
 ## First part<br>
+### Problem Statement
+API is to be Designed for food calculating delivery time based on the following conditions. Each restaurant has a maximum capacity of only 7 cooking slots. Each appetizer (A) requires 1 cooking slot and every Main Course (M) requires 2 cooking slots. Appetizers require 17 minutes to be prepared and main courses take 29 minutes. Assume that the delivery time can be calculated by a simple formula that every 1km can be covered in 8 minutes.
+The orders come in and are maintained in a queue. If the restaurant cannot accommodate a new order it gets queued and the estimated time for its delivery gets calculated. How much time it would take for an order to be delivered is to be calculated. 
 ### Rules followed : 
 - If an order is going to take more than 2 hour 30 minutes to get delivered, it gets denied.
 - Every order has a 2 digit unique id.
