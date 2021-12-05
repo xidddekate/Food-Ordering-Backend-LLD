@@ -14,7 +14,7 @@ Low level backend design of Food Ordering app
 
 
 ### Please refer screenshots for better understanding <br>
-![alt text](https://replit.com/@xidddekate/OrderMeals#demo/Screenshot%202021-12-04%20at%2011.36.21%20AM.png)
+![alt text](https://github.com/xidddekate/Food-Ordering-Backend-LLD/blob/main/Screenshot%202021-12-04%20at%2011.36.21%20AM.png)
 
 ## Second part - Design
 
@@ -31,7 +31,7 @@ Following tables we could have for extension of this problem using any RDBMS dat
 <li> RestaurantMeals - To maintain mapping between meals and Restaurant</li><br>
 
 ### Please refer screenshots for better understanding<br>
-![alt text](https://replit.com/@xidddekate/OrderMeals#demo/Screenshot%202021-12-05%20at%2010.34.33%20PM.png)
+![alt text](https://github.com/xidddekate/Food-Ordering-Backend-LLD/blob/main/Screenshot%202021-12-05%20at%2010.34.33%20PM.png)
 ### CRUD FLOW
 
 Lets start from beginning
