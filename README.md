@@ -17,7 +17,7 @@ The orders come in and are maintained in a queue. If the restaurant cannot accom
 
 
 ### Please refer screenshots for better understanding <br>
-![alt text](https://github.com/xidddekate/Food-Ordering-Backend-LLD/blob/main/Screenshot%202021-12-04%20at%2011.36.21%20AM.png)
+![alt text](https://github.com/xidddekate/Food-Ordering-Backend-LLD/blob/main/Screenshot%202021-12-04%20at%2011.37.14%20AM.png)
 
 ## Second part - Design
 
